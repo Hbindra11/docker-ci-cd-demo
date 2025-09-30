@@ -8,4 +8,4 @@ https://docker-ci-cd-demo.onrender.com/
 - Deployed on **Render** (free tier)
 
 ## Repo status
-![CI](https://github.com/Hbindra11/docker-ci-cd-demo/actions/workflows/ci.yml/badge.svg)
+[![CI Pipeline](https://github.com/Hbindra11/docker-ci-cd-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/Hbindra11/docker-ci-cd-demo/actions/workflows/ci.yml)
